@@ -1,2 +1,2 @@
-# Geocomp
+# Geocomputation
 GIS algorithms and analyses
